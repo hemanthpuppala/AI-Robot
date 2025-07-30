@@ -77,7 +77,7 @@ The system is modular and can be tailored to other educational institutions or l
 
 ## Minimum Requirements
 
-- **OS:** Windows, Linux, or Raspberry Pi OS
+- **OS:** Windows, Linux, or Jetson Nano
 - **Python:** >3.0 (recommend 3.7+)
 - **OpenCV:** 4.2 (built from source)
 - **Hardware:** Camera, microphone, speakers, motor drivers/relays, IoT nodes as needed
