@@ -89,10 +89,6 @@ The system is modular and can be tailored to other educational institutions or l
 - Security/monitoring robots
 - Smart building automation
 
-## Media
-- Robot prototype Video (./VID-20230911-WA0018.mp4)
-
-
 ## License and Contribution
 
 Contributions welcome. Please fork this repository and submit a pull request. **Do not commit secret credentials**.
