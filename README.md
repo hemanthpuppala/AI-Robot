@@ -3,6 +3,12 @@
 A smart, speech-enabled mobile robot designed to improve campus safety, navigation, and engagement by leveraging computer vision, voice assistant technology, retrieval-augmented generation (RAG), and IoT automation.
 
 ---
+## Demo
+
+Curious to see the robot in action?  
+👉 **[Check out the demo here!](https://drive.google.com/drive/folders/1RhR0QoaBfpgUQ37uzVblEuKH3nZv0RhW?usp=drive_link)**
+
+Explore photos and videos of the prototype, features, and field tests to understand its capabilities in a real-world campus setting.
 
 ![Robot Prototype](./IMG-20230911-WA0003.jpg)
 
