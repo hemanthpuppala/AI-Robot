@@ -4,7 +4,7 @@ A smart, speech-enabled mobile robot designed to improve campus safety, navigati
 
 ---
 
-![Robot Prototype](./image.jpg)
+![Robot Prototype](./IMG-20230911-WA0003.jpg)
 
 ## What is this project?
 
